@@ -43,7 +43,7 @@ store1.inflation
 store2.inflation
 puts ""
 p "The new item prices are:"
-puts "---------------------"
+puts "========================"
 store1.print_info
 store2.supply=("Out of Stock")
 store2.print_info
